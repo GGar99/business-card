@@ -6,10 +6,8 @@ body {
 
 .avatar {
     width: 160px;
-    border-bottom: 3px solid #5F5576;
-    border-top: 1px solid #5F5576;
-    border-left: 1px solid #5F5576;
-    border-right: 2px solid #5F5576;    border-radius: 50px
+    border: 2px solid #5F5576;
+    border-radius: 50px;
  }
 
 .card {
